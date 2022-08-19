@@ -3042,7 +3042,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			.features article {
-				padding: 1.5em 1.5em 0.1em 1.5em ;
+				padding: .5em 1.5em 0.1em 1.5em ;
 				margin: 0.875em 1.75em 0.875em 0;
 				width: calc(50% - 0.875em - 1px);
 			}
