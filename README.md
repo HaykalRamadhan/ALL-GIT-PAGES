@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html>
 [style]: # (Style Section)
 <style>
 p.normal{
@@ -26,7 +24,7 @@ body{
 <h1 class="bold-center">Black Box Testing</h1>
 
 ---
-<body>
+
 <h2>What is Black Box?</h2>
 <p class="normal">
 Black Box Testing is a software testing method in which the functionalities of software applications are tested without having knowledge of internal code structure, implementation details and internal paths. Black Box Testing mainly focuses on input and output of software applications and it is entirely based on software requirements and specifications. It is also known as Behavioral Testing.
@@ -92,7 +90,6 @@ Lorem Ipsum
 <p class="normal">
 Lorem Ipsum
 </p>
-</html>
 [Footer]: # (Footer Section)
 ---
 Writen in Vi IMproved - Haykal Ramadhan
