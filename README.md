@@ -1,4 +1,4 @@
-theme: darkly
+<body background="grey">
 
 [style]: # (Style Section)
 <style>
@@ -91,4 +91,5 @@ Lorem Ipsum
 
 [Footer]: # (Footer Section)
 ---
-Writen in Vi IMproved - Haykal Ramadhan 
+Writen in Vi IMproved - Haykal Ramadhan
+</body>
