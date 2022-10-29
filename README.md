@@ -1,4 +1,4 @@
-<body background="grey">
+
 
 [style]: # (Style Section)
 <style>
@@ -16,8 +16,13 @@ h2.bold-left{
   font-weight: bold;
   text-align: left;
 }
-</style>
 
+body{
+  background: #777777;
+  color: white;
+}
+</style>
+<body>
 [Main]: # (Main Section)
 <h1 class="bold-center">Black Box Testing</h1>
 
@@ -34,7 +39,7 @@ Input -> [BLACK BOX] -> Output
 <p class="normal">
 The above Black-Box can be software you want to test. For example an operating system such as Linux, Windows, a website like Google, Youtube or even a database like Oracle. Under Black Box Testing, you can test these applications by just focusing on the inputs and outputs without knowing their internal code implementation.
 </p>
-
+</body>
 [ECP]: # (ECP Section)
 <h2 class="bold-left">"Equivalence Class Partition"</h2>
 <p class="normal">
@@ -92,4 +97,3 @@ Lorem Ipsum
 [Footer]: # (Footer Section)
 ---
 Writen in Vi IMproved - Haykal Ramadhan
-</body>
