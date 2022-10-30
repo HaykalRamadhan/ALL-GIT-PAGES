@@ -16,7 +16,7 @@ h2.bold-left{
 }
 
 body{
-  background: #000000;
+  background: #343B5C;
 }
 </style>
 [Main]: # (Main Section)
