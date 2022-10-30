@@ -1,5 +1,3 @@
-theme: minima
-
 [style]: # (Style Section)
 <style>
 p.normal{
