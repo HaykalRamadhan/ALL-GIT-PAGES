@@ -10,6 +10,8 @@ p.normal{
 }
 </style>
 
+---
+
 ## What is Black Box Testing?
 
 <p class="normal">
