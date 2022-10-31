@@ -1,17 +1,12 @@
 ---
 layout: post
-title: Black Box Testing
+title: <style align="center">Black Box Testing</style>
 published: true
 ---
 <style>
 p.normal{
   font-weight: normal;
   text-align: justify;
-}
-
-h1.bold-center{
-  font-weight: bold;
-  text-align: center;
 }
 
 h2.bold-left{
@@ -24,10 +19,12 @@ body{
 }
 </style>
 
-<h1 class="bold-center"> What is Black Box Testing? </h1>
+## What is Black Box Testing?
 
+<p class="normal">
 Black Box Testing is a software testing method in which the functionalities of software applications are tested without having knowledge of internal code structure, implementation details and internal paths. Black Box Testing mainly focuses on input and output of software applications and it is entirely based on software requirements and specifications. It is also known as Behavioral Testing.
-
+</p>
+  
 Input -> [BLACK BOX] -> Output
 
 The above Black-Box can be software you want to test. For example an operating system such as Linux, Windows, a website like Google, Youtube or even a database like Oracle. Under Black Box Testing, you can test these applications by just focusing on the inputs and outputs without knowing their internal code implementation.
