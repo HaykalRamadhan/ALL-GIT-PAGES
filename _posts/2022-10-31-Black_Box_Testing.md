@@ -42,3 +42,33 @@ In equivalence partitioning, equivalence classes are evaluated for given input c
 <p class="normal">
 Boundary Value Analysis (BVA) is one of the functional testings. Functional testing is a type of software testing in which the system is tested against the functional requirements of the system. It is conducted to ensure that the requirements are properly satisfied by the application. Functional testing verifies that each function of the software application works in conformance with the requirement and specification.
 </p>
+
+## Decision Table Testing
+<p class="normal">
+Decision Table is a table that shows the relationship between inputs and rules, cases, and test conditions. It's a very useful tool for both complicated software testing abd requirements management. The decision table allows testers to examine all conceivable combinations of requirements for testing and to immediately discover any circumstances that were overlooked. True(T) and False(F) values are used to signify the criteria.
+</p>
+
+**So What is Decision Table Testing?**
+
+<p class="normal">
+Decision table testing is a type of software testing that examines how a system responds to various input combinations. This is a methodical methodology in which the various input combinations and the accompanying system behavior (Output) are tabulated.
+</p>
+
+## State Transition Testing
+<p class="normal">
+State Transition Testing is a type of software testing which is performed to check the change in the state of the application under varying input passed is changed and the change in state is observed.
+
+State Transition Testing is basically a black box testing technique that is carried out to observe the behavior of the system or applicaiton for different input conditions passed in a sequence.
+
+State Transition Testing is typically used where different system transition are needed to be tested.
+</p>
+
+## Graph-Based Testing Methods
+<p class="normal">
+Lorem Ipsum
+</p>
+
+## Comparison Testing
+<p class="normal">
+Lorem Ipsum
+</p>
