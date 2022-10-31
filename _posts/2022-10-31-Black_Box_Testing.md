@@ -20,7 +20,7 @@ h2.bold-left{
 }
 
 body{
-  background: ;
+  background: 
 }
 </style>
 
