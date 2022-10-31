@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <style align="center">Black Box Testing</style>
+title: Black Box Testing
 published: true
 ---
 <style>
