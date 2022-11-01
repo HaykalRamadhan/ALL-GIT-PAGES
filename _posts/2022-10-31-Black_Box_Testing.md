@@ -38,7 +38,9 @@ That is the basic of what Black Box Testing is and here are six 'Black Box Testi
 
 <p class="normal">
 Equivalence Partitioning or also known as Equivalence Class Partitioning (ECP). It is a software testing technique or black-box testing that divides input domain into classes of data, and with the help of these classes of data, test case can be derived. An ideal test case identifies class of error that might require many arbitary test cases to be executed before general error is observed.
+</p>
 
+<p class="normal">
 In equivalence partitioning, equivalence classes are evaluated for given input conditions. Whenever any input is given, then type of input condition is checked, then for this input conditions, Equivalence class represents or describes set of valid or invalid states.
 </p>
 
