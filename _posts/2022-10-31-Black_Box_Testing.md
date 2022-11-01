@@ -66,7 +66,7 @@ Decision table testing is a type of software testing that examines how a system 
 <p class="normal">
 State Transition Testing is a type of software testing which is performed to check the change in the state of the application under varying input passed is changed and the change in state is observed.
 
-State Transition Testing is basically a black box testing technique that is carried out to observe the behavior of the system or applicaiton for different input conditions passed in a sequence.
+State Transition Testing is basically a black box testing technique that is carried out to observe the behavior of the system or application for different input conditions passed in a sequence.
 
 State Transition Testing is typically used where different system transition are needed to be tested.
 </p>
