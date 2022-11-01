@@ -3,15 +3,6 @@ layout: post
 title: Black Box Testing
 published: true
 ---
-<style>
-p.normal{
-  font-weight: normal;
-  text-align: justify;
-}
-</style>
-
----
-
 ## What is Black Box Testing?
 
 <p class="normal">
