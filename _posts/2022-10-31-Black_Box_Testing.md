@@ -22,6 +22,14 @@ Black Box Testing is a software testing method in which the functionalities of s
 
 <p class="normal">
 The above Black-Box can be software you want to test. For example an operating system such as Linux, Windows, a website like Google, Youtube or even a database like Oracle. Under Black Box Testing, you can test these applications by just focusing on the inputs and outputs without knowing their internal code implementation.
+
+That is the basic of what Black Box Testing is and here are six 'Black Box Testing' Techniques;
+- Equivalent Class Partitioning
+- Boundary Values Analysis
+- Decision Table Testing
+- State Transition Testing
+- Graph-Based Testing Methods
+- Comparison Testing
 </p>
 
 ## Equivalent Class Partitioning
