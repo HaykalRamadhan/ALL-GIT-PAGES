@@ -66,6 +66,8 @@ State Transition Testing is basically a black box testing technique that is carr
 State Transition Testing is typically used where different system transition are needed to be tested.
 </p>
 
+![](https://media.geeksforgeeks.org/wp-content/uploads/20190530103800/116-1.jpg)
+
 ## Graph-Based Testing Methods
 <p class="normal">
 Lorem Ipsum
