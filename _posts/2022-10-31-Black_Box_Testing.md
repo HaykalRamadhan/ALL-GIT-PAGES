@@ -32,6 +32,8 @@ That is the basic of what Black Box Testing is and here are six 'Black Box Testi
 - Comparison Testing
 </p>
 
+---
+
 ## Equivalent Class Partitioning
 
 <p class="normal">
