@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-Hi my name is Haykal Fikri Ramadhan and this page is a compilations of my university assignments.
+Hi my name is Haykal Fikri Ramadhan and this page is specifically made for my university assignments.
 
 This page is created thanks to the guys at Jekyll-Now!
 
